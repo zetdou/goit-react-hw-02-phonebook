@@ -1,7 +1,9 @@
+import ContactForm from "./ContactForm";
+
 function App() {
   return (
     <>
-      <Contacts />
+      <ContactForm />
     </>
   );
 }
